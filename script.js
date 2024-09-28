@@ -64,8 +64,8 @@ a = Number(a);
 a = alert(a);
 console.log(a);
 
-let l = (1);
-l = prompt(2)
-console.log(34 + k);
+let l;
+l = +prompt('Ведите любое число');
+console.log(l);
 
 
